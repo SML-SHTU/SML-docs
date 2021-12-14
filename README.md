@@ -1,6 +1,6 @@
 # IID Docs
 
-The website: [https://winderek.github.io/iid-docs/](https://winderek.github.io/iid-docs/)
+The website: [https://sml-shtu.github.io/SML-docs/](https://sml-shtu.github.io/SML-docs/)
 
 The _unofficial_ documentation website for the IID laboratory of SIST (School of Information Science and Technology), ShanghaiTech University.
 
